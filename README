@@ -1,3 +1,7 @@
+I compiled doubango many times. libgsm would occure some errors.
+Then, I fix bugs and commit here.
+You can modiy build.sh and run it.
+--------------------------------------------------------
 
 GSM 06.10 13 kbit/s RPE/LTP speech compression available
 --------------------------------------------------------
